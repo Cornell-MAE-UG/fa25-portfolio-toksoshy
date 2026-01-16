@@ -92,14 +92,14 @@ The Battery Pack Mechanical Enclosure supports and protects the Hyperloop pod's 
 
 Battery cells are grouped into modules of 10 and 12 cells and constrained using a laser-cut acrylic holder consisting of a top cutout plate and bottom support plate. The top plate prevents lateral translation while vertical spacing promotes airflow and prevents toppling under inertial loads.
 
-![Battery Pack Holder CAD](images/battery pack holder.png)
+![Battery Pack Holder CAD]({{ site.baseurl }}/assets/images/battery pack holder.png)
 *Figure 1: Battery Pack Holder*
 
 ## Battery Pack Enclosure and Structural Integration
 
 An upper acrylic enclosure is supported by a 20x20 mm aluminum extrusion frame. Structural loads are transferred into the pod chassis while maintaining electrical isolation and modularity.
 
-![Battery Pack Enclosure CAD](images/battery enclosure.png)
+![Battery Pack Enclosure CAD]({{ site.baseurl }}/assets/images/battery enclosure.png)
 *Figure 2: Battery Pack Enclosure*
 
 ## Battery Management System Mounting
@@ -134,7 +134,7 @@ Temperature rise rate:
 
 Natural convection and auxiliary fans mitigate thermal accumulation.
 
-![Thermal and Fan Placement CAD](images/battery.pack.png)
+![Thermal and Fan Placement CAD]({{ site.baseurl }}/assets/images/battery.pack.png)
 *Figure 3: Fan Locations in Enclosure*
 
 ## Material Analysis
@@ -153,13 +153,13 @@ CAD fit checks and preliminary structural evaluations confirmed compatibility wi
 
 # Appendix
 
-![Side View CAD](images/battery pack side.png)
+![Side View CAD]({{ site.baseurl }}/assets/images/battery pack side.png)
 *Figure 4: Side View of Full Enclosure*
 
-![Prototype Open](images/bp open.png)
+![Prototype Open]({{ site.baseurl }}/assets/images/bp open.png)
 *Figure 5: Prototype (Opened)*
 
-![Prototype Closed](images/bp close.png)
+![Prototype Closed]({{ site.baseurl }}/assets/images/bp close.png)
 *Figure 6: Prototype (Closed)*
 
 
